@@ -1,5 +1,5 @@
 # author: Mario Pietsch
-# version: 0.2.2
+# version: 0.2.3
 # source: https://github.com/pmario/ts-backup-powershell
 # license: CC-BY-NC-SA
 # 
